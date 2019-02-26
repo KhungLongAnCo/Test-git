@@ -1,1 +1,1 @@
-console.log('Try push branch to github with command git push nameBranch');
+console.log('push branch to github with command git push nameBranch');
