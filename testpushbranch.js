@@ -1,0 +1,1 @@
+console.log('push branch to github with command git push nameBranch');
